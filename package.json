@@ -1,0 +1,30 @@
+{
+  "name": "react",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@babel/core": "7.10.4",
+    "@babel/runtime": "7.10.4",
+    "@chakra-ui/core": "0.8.0",
+    "@emotion/babel-preset-css-prop": "10.0.27",
+    "@emotion/core": "10.0.28",
+    "@emotion/styled": "10.0.27",
+    "@xstate/react": "0.8.1",
+    "emotion-normalize": "10.1.0",
+    "emotion-theming": "10.0.27",
+    "eventemitter3": "4.0.4",
+    "pixi.js": "5.3.0",
+    "prop-types": "15.7.2",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-spring": "^8.0.27",
+    "xstate": "4.11.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "type": "module"
+}
